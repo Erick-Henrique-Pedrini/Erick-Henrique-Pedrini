@@ -1,4 +1,4 @@
-```html
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -53,4 +53,4 @@ fetch(`https://api.github.com/users/${username}/repos`)
 
 </body>
 </html>
-```
+
